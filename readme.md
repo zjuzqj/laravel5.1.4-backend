@@ -30,20 +30,20 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 - Add account
 
-![image](https://github.com/zjuzqj/laravel5.1.4-backend/tree/master/screenshots/account.jpg)
+![image](http://zhouqj.com/blog/wp-content/uploads/2015/09/git_laravel_account.jpg)
 
 - List
 
-![image](https://github.com/zjuzqj/laravel5.1.4-backend/tree/master/screenshots/beautician.jpg)
+![image](http://zhouqj.com/blog/wp-content/uploads/2015/09/git_laravel_beautician-1024x589.jpg)
 
 - Dashboard
 
-![image](https://github.com/zjuzqj/laravel5.1.4-backend/tree/master/screenshots/index.jpg)
+![image](http://zhouqj.com/blog/wp-content/uploads/2015/09/git_laravel_index-1024x670.jpg)
 
 - Add service
 
-![image](https://github.com/zjuzqj/laravel5.1.4-backend/tree/master/screenshots/service.jpg)
+![image](http://zhouqj.com/blog/wp-content/uploads/2015/09/git_laravel_service-1024x589.jpg)
 
 - Login
 
-![image](https://github.com/zjuzqj/laravel5.1.4-backend/tree/master/screenshots/login.jpg)
+![image](http://zhouqj.com/blog/wp-content/uploads/2015/09/git_laravel_login-1024x670.jpg)
